@@ -1,6 +1,6 @@
 # Gabriel Solomon, 2020
 
-import json
+import birthday
 
 #
 # this is a relative path to the .json data file
@@ -18,7 +18,7 @@ import json
 # pathToFile = "./birthday/birthday.json"
 
 # full path to file
-pathToFile = "C:/Users/jerom/Documents/GitHub/class-python/birthday/birthday.json"
+pathToFile = "C:/Users/HV/Documents/GitHub/Lupita-s-Lookup-App/birthday/"
 
 
 # try to open a file and throw a error if it is not found
